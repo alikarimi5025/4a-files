@@ -224,7 +224,7 @@ void print_ticket(bookingList *blnp, flightList *flnp, int seat, int row)
  */
 int main(int argc, char *argv[])
 {
-    if (argc = 3)
+    if (argc == 3)
     {
         bookingList *bookings;
         flightList *flights;
