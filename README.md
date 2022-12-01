@@ -8,8 +8,9 @@ The second argument is a file with booking information.
 The program creates files with a ticket for each booking.
 ```
 ## Compiling the program
+```
 gcc 4a-ticket.c -o ticket
-
+```
 **Example running the program:**
 ```
 ./ticket bookings.csv flights.csv
